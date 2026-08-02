@@ -16,4 +16,6 @@ resourcegroup = {
         name = "frontendrg3"
         location = "centralindia"
     }
+
+    
 }
