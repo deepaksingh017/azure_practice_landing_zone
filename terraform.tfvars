@@ -11,4 +11,9 @@ resourcegroup = {
         name = "frontendrg2"
         location = "centralindia"
     }
+
+    rg3 = {
+        name = "frontendrg3"
+        location = "centralindia"
+    }
 }
